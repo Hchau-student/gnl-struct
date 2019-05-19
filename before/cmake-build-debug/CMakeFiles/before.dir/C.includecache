@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hchau/Desktop/before/struct.c
+struct.h
+/Users/hchau/Desktop/before/struct.h
+
+/Users/hchau/Desktop/before/struct.h
+../libft/libft.h
+/Users/hchau/Desktop/libft/libft.h
+unistd.h
+-
+stdlib.h
+-
+fcntl.h
+-
+stdio.h
+-
+
+/Users/hchau/Desktop/libft/libft.h
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+

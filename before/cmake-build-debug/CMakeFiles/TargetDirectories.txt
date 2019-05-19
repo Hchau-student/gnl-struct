@@ -1,0 +1,3 @@
+/Users/hchau/Desktop/before/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/hchau/Desktop/before/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hchau/Desktop/before/cmake-build-debug/CMakeFiles/before.dir
